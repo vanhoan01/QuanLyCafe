@@ -1,0 +1,7 @@
+Quản lý
+Tài khoản: quanly
+Mật khẩu: quanly
+
+Bán cafe
+Tài khoản: ban
+Mật khẩu: ban
